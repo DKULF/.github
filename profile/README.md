@@ -1,6 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="25" height="25" /> 단국대 분실물 찾기 서비스
 
 <div align="center">
+  
+![스몰로고](https://github.com/user-attachments/assets/49cd21bd-0e66-4955-be0a-7ccf362e37d8)
 
 <h4>분실물도 찾고 습득물도 등록할 수 있는 단국대학교 교내 분실물 통합 서비스</h4>
 
